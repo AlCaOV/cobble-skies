@@ -583,8 +583,8 @@ hash = "b2da2487f360fb87adf6ca4615057b02dc0e3df41b816264f0f2486700a1cc35"
 metafile = true
 
 [[files]]
-file = "mods/sable-neoforge-1.21.1-2.0.5.pw.toml"
-hash = "da75fd92f978d3cf3b79a944f22f5ae8805fba69739bc03f69e89bb50b63ba44"
+file = "mods/sable-neoforge-1.21.1-2.0.6.pw.toml"
+hash = "91ec0a96a1f1e914a170bf51d03926c8bad455c784999a52aa5f3161ceef5588"
 metafile = true
 
 [[files]]
