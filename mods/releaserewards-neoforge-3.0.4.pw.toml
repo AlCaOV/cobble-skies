@@ -1,0 +1,13 @@
+name = "releaserewards-neoforge-3.0.4"
+filename = "releaserewards-neoforge-3.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Qx6M2WkT/versions/6vMgpg8Q/releaserewards-neoforge-3.0.4.jar"
+hash-format = "sha512"
+hash = "32e3fe31d6ec50683e0d48922250d82e6fa93f53ceebb00adf1f11867371bee60b6ebdfcbc8871ae90e8e0820b0358ac7ddd5c9083d5d5f28576587afc9ce486"
+
+[update]
+[update.modrinth]
+mod-id = "Qx6M2WkT"
+version = "6vMgpg8Q"

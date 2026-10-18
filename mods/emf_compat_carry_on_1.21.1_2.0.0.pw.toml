@@ -1,0 +1,13 @@
+name = "emf_compat_carry_on_1.21.1_2.0.0"
+filename = "emf_compat_carry_on_1.21.1_2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BPD5ZhBo/versions/WgWz7zA4/emf_compat_carry_on_1.21.1_2.0.0.jar"
+hash-format = "sha512"
+hash = "444b54ea030bd95789e514283d51f79f0dcb0082cbc3f8e49785aa3696eab4066523f819980d65a6efd8c8ceaa71c77add2257473452fedffe00372b8742f0fd"
+
+[update]
+[update.modrinth]
+mod-id = "BPD5ZhBo"
+version = "WgWz7zA4"

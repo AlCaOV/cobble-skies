@@ -1,0 +1,13 @@
+name = "RCT Trainer Animation_0.2.1beta"
+filename = "RCT Trainer Animation_0.2.1beta.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YvPSQLnM/versions/NAHxJaEX/RCT%20Trainer%20Animation_0.2.1beta.zip"
+hash-format = "sha512"
+hash = "fbd3fa792ae9f21f84b7a3e56a018cdd8c0a4647fcb891f55676d6464c49555e9aa72f32756523856236d1ec4b8177920acd6cdcf8b828b77d89b07a3d23d400"
+
+[update]
+[update.modrinth]
+mod-id = "YvPSQLnM"
+version = "NAHxJaEX"

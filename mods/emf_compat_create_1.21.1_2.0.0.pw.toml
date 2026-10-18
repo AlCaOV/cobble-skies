@@ -1,0 +1,13 @@
+name = "emf_compat_create_1.21.1_2.0.0"
+filename = "emf_compat_create_1.21.1_2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/J9McOdzy/versions/FYa3pSLC/emf_compat_create_1.21.1_2.0.0.jar"
+hash-format = "sha512"
+hash = "e9248176b8f50ad3e5c1435ee5c243c51cb0dac5ae4e0ad4eb6d8d8757ec4d4e8b96c780412ca75aae9ccdf872bffafa3ecf658e27effb8f56317554a814e0ef"
+
+[update]
+[update.modrinth]
+mod-id = "J9McOdzy"
+version = "FYa3pSLC"
