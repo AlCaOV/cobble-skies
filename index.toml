@@ -5,11 +5,6 @@ file = "config/iris.properties"
 hash = "efe0c30620affee4a63c94309643da1b5a10d9b411d292f1394bd233489a7334"
 
 [[files]]
-file = "config/openloader/packs/ATM x MSD [v5.0].pw.toml"
-hash = "2ffef7e51a7eb9747500b7526a3b3cd45449f729749f72ec0c5c685ab82f02dd"
-metafile = true
-
-[[files]]
 file = "config/openloader/packs/E19 Cobblemon Minimap Icons.pw.toml"
 hash = "19e4d860beb36acabea16aa7968844317d6947f6ee19a97b24c4ffcb480f0388"
 metafile = true
@@ -264,18 +259,8 @@ hash = "81f232f70da1b59acbdff63f975641139f4bfab51e84d719c76de43b743e1932"
 metafile = true
 
 [[files]]
-file = "mods/cobblemonraiddens-neoforge-0.13.3+1.21.1.pw.toml"
-hash = "d9b9d1b030257952cb5a519ffbfe0443a2220957fc018e809957e5f7f3e263d4"
-metafile = true
-
-[[files]]
 file = "mods/cobblemore_lib-neoforge-1.2.10.pw.toml"
 hash = "2570aaecea67b5a270cdae414d0c33508e809537be8f2121ebdb9aea541ca68d"
-metafile = true
-
-[[files]]
-file = "mods/cobblenav-neoforge-2.4.2.pw.toml"
-hash = "bf6d1c1ce68bbe5d5199f4df125ff10d224d5a24fc9075edd064331156e6fda2"
 metafile = true
 
 [[files]]
@@ -419,11 +404,6 @@ hash = "7d92efa1c6cc55bab650bc48af7fc2af75fa7f0b1f329ec8ba01bff22dc3d5b4"
 metafile = true
 
 [[files]]
-file = "mods/fightorflight-neoforge-0.11.1.pw.toml"
-hash = "629e6880635c07f1faca85e8b17d5000f05968808b9a219dfc1360897b025305"
-metafile = true
-
-[[files]]
 file = "mods/fzzy_config-0.7.7+1.21+neoforge.pw.toml"
 hash = "a0545868a72e4957df75b6a45a8c6f33a34819e98ff1673ca50e898d3478b971"
 metafile = true
@@ -476,11 +456,6 @@ metafile = true
 [[files]]
 file = "mods/lootr-neoforge-1.21.1-1.11.38.127.pw.toml"
 hash = "578056a74461e5775499149d9d410679e722a70fa67df1eff5c5b43132eb18c8"
-metafile = true
-
-[[files]]
-file = "mods/mega_showdown-neoforge-1.3.1+1.8.2+1.21.1-release.pw.toml"
-hash = "cd2dd9c7fb2ce65662da6cbf31becf93ce17b249c288f155b7b87fbe937b6c63"
 metafile = true
 
 [[files]]
