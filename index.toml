@@ -343,8 +343,8 @@ hash = "52f8416eabc78105918a9a672db00ecc42b8925eeec2cdb6e925fa64d656252e"
 metafile = true
 
 [[files]]
-file = "mods/create_encapsulated-1.1.2+1.21.1.pw.toml"
-hash = "b56b619ac5371afc5c1a0d4db1adfc54e6bdf84e2b2800de2421a762ae8f9899"
+file = "mods/create_encapsulated-1.1.3+1.21.1.pw.toml"
+hash = "288159746394dc069ebcb2e697a1092cc50f47395a13326cd708574190b452ba"
 metafile = true
 
 [[files]]
@@ -638,8 +638,8 @@ hash = "f584de2460fb618c4cd6912a243ac5326389b46dccd594e25e93283053ba86e4"
 metafile = true
 
 [[files]]
-file = "mods/world_of_color-1.3.pw.toml"
-hash = "cf39cfc62f9daaf44a56c152ecf35a6cde3ec3659d288350000a913e6b9e34cf"
+file = "mods/world_of_color-1.4.1.pw.toml"
+hash = "9d94f1951e39f1eeef37bad15fca9f5256793539c3b45fe081f74adf8cbcd602"
 metafile = true
 
 [[files]]

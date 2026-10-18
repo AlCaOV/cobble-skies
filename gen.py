@@ -11,7 +11,7 @@ OUT = sys.argv[2]          # packwiz repo dir
 PACK_VERSION = sys.argv[3]
 
 idx = json.load(open(os.path.join(SRC, "modrinth.index.json")))
-KEEP = {".git", "README.md", "installer", "gen.py"}
+KEEP = {".git", ".gitignore", "README.md", "installer", "gen.py"}
 if os.path.exists(OUT):
     for n in os.listdir(OUT):
         if n in KEEP: continue
@@ -69,10 +69,12 @@ for e in idx["files"]:
 # 2. overrides copied verbatim
 ov = os.path.join(SRC, "overrides")
 PRESERVE = {"options.txt"}
+SKIP = {"update.bat", "packwiz-installer-bootstrap.jar", "packwiz-installer.jar"}
 for root, _, files in os.walk(ov):
     for fn in files:
         src = os.path.join(root, fn)
         rel = os.path.relpath(src, ov).replace(os.sep, "/")
+        if fn in SKIP: continue
         dst = os.path.join(OUT, rel)
         os.makedirs(os.path.dirname(dst), exist_ok=True)
         shutil.copy2(src, dst)
