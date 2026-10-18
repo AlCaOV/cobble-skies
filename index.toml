@@ -568,8 +568,8 @@ hash = "f22a4c7c18d04d84e5bd708b653aa6c686ec13b83eb4207f69a19e9288fcb318"
 metafile = true
 
 [[files]]
-file = "mods/releaserewards-neoforge-3.0.3.pw.toml"
-hash = "0fdd1e24df77ae54aec606e86df788da8ec02c58b26475d1d3fbf5889892bd05"
+file = "mods/releaserewards-neoforge-3.0.4.pw.toml"
+hash = "1a95314dfbd4836a9493985d80fe55d1e407cc38ec6fedfd50192f19000412cb"
 metafile = true
 
 [[files]]
