@@ -34,10 +34,6 @@ hash = "38bc63366a854eb4100e3a31757cbae48f8541d1a26ae3948fde4aedc86d21a5"
 metafile = true
 
 [[files]]
-file = "mods/CRE-v0.0.3-NeoForge.jar"
-hash = "80c79235dca37cb3267b4dac3a609ed38d3a2a5b8e46eb31b0cad99ecf63689f"
-
-[[files]]
 file = "mods/Chunky-NeoForge-1.4.23.pw.toml"
 hash = "320107f5134d7fe1ba6099034f6a5f5f3145493cfa4cac350e90f8bf38962e42"
 metafile = true
@@ -465,11 +461,6 @@ metafile = true
 [[files]]
 file = "mods/kotlinforforge-5.12.0-all.pw.toml"
 hash = "af6cb3cccfe7b8b1054bdd0f9d3e4f75b63ef96bb7eaff83e6eaca8f22f6470a"
-metafile = true
-
-[[files]]
-file = "mods/lighty-neoforge-3.0.0-beta.8+1.21.1.pw.toml"
-hash = "629152f6f22fc7a11582b5d21bac97c01d5343681ae680b72dcc1b06fc02844e"
 metafile = true
 
 [[files]]
