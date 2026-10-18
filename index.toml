@@ -5,8 +5,8 @@ file = "config/iris.properties"
 hash = "efe0c30620affee4a63c94309643da1b5a10d9b411d292f1394bd233489a7334"
 
 [[files]]
-file = "config/openloader/packs/ATM x MSD [v4.0].pw.toml"
-hash = "bde254f9ca536de5d9e3679501525975de5b725ed370f600d211d5821d5daa7b"
+file = "config/openloader/packs/ATM x MSD [v5.0].pw.toml"
+hash = "2ffef7e51a7eb9747500b7526a3b3cd45449f729749f72ec0c5c685ab82f02dd"
 metafile = true
 
 [[files]]
@@ -48,8 +48,8 @@ hash = "6fe987aedbf54d3d41f653ff62502ab75b93f81634f59d2026157aaaa7d13eea"
 metafile = true
 
 [[files]]
-file = "mods/Cobblemon-neoforge-1.8.1+1.21.1.pw.toml"
-hash = "52759a87494825ed38aeacf9c1fa027f17114611f85f2c0b3b090566b4713946"
+file = "mods/Cobblemon-neoforge-1.8.2+1.21.1.pw.toml"
+hash = "31478a9323972880522fa3e41cfbb00e06e39ea88f8bb2830f947e5206e638a0"
 metafile = true
 
 [[files]]
@@ -218,11 +218,6 @@ hash = "201637bed3d4c63640cab631cf081f660de49b7c20bf031e32902b473350a0be"
 metafile = true
 
 [[files]]
-file = "mods/capturexp-neoforge-1.8.1-1.3.0.pw.toml"
-hash = "d68aa6ac4d8fbcc2e9d68bd6ff07f4bfd14b18e77c8c1ff6b939e304710e203d"
-metafile = true
-
-[[files]]
 file = "mods/carryon-neoforge-1.21.1-2.2.6.13.pw.toml"
 hash = "b002e49c690e9107c6ea56ad7ff1320400200b7bff371800c9d9c237abd8d7f5"
 metafile = true
@@ -303,8 +298,8 @@ hash = "e215ef494c0e94a65caffc64fe5985fec78b803cb66226b20ac63a5f40767915"
 metafile = true
 
 [[files]]
-file = "mods/counter-neoforge-1.8.1-1.9.0.pw.toml"
-hash = "4fd80d6d8345535f948ce6834f661199b02f9b9e141f198406c3b185921c060c"
+file = "mods/counter-neoforge-1.8.2-1.9.2.pw.toml"
+hash = "78fb12f317627563c6d48b824c443af0b40642de0d273369ae9031d56c33e6e0"
 metafile = true
 
 [[files]]
@@ -348,8 +343,8 @@ hash = "52f8416eabc78105918a9a672db00ecc42b8925eeec2cdb6e925fa64d656252e"
 metafile = true
 
 [[files]]
-file = "mods/create_encapsulated-1.1.2+1.21.1.pw.toml"
-hash = "b56b619ac5371afc5c1a0d4db1adfc54e6bdf84e2b2800de2421a762ae8f9899"
+file = "mods/create_encapsulated-1.1.3+1.21.1.pw.toml"
+hash = "288159746394dc069ebcb2e697a1092cc50f47395a13326cd708574190b452ba"
 metafile = true
 
 [[files]]
@@ -493,8 +488,8 @@ hash = "578056a74461e5775499149d9d410679e722a70fa67df1eff5c5b43132eb18c8"
 metafile = true
 
 [[files]]
-file = "mods/mega_showdown-neoforge-1.2.0+1.8.1+1.21.1-release.pw.toml"
-hash = "f190b1f98a1159b6e0e047b27a0f11daf5bf6ba3155efea1141926a18e2aee13"
+file = "mods/mega_showdown-neoforge-1.3.1+1.8.2+1.21.1-release.pw.toml"
+hash = "cd2dd9c7fb2ce65662da6cbf31becf93ce17b249c288f155b7b87fbe937b6c63"
 metafile = true
 
 [[files]]
@@ -633,18 +628,18 @@ hash = "1c1670300d416d58797ee0ddb11d6057052bd360cba68b73cb7a9376963d0304"
 metafile = true
 
 [[files]]
-file = "mods/timcore-neoforge-1.8.1-1.32.1.pw.toml"
-hash = "665c658e938ff90b2678630f69ccc769dd72e2d24ba6bde8eec8eb24ba782d19"
+file = "mods/timcore-neoforge-1.8.2-1.34.0.pw.toml"
+hash = "038ef1d04bc4c6bee2f1af371e5c42c949462884ce33707387d9f47b417abc3d"
 metafile = true
 
 [[files]]
-file = "mods/unchained-neoforge-1.8.1-1.7.1.pw.toml"
-hash = "f3312c16b416e967448ff57fdbc7bf138670e69ed34cf779b09fc99f81926c19"
+file = "mods/unchained-neoforge-1.8.2-1.7.2.pw.toml"
+hash = "f584de2460fb618c4cd6912a243ac5326389b46dccd594e25e93283053ba86e4"
 metafile = true
 
 [[files]]
-file = "mods/world_of_color-1.3.pw.toml"
-hash = "cf39cfc62f9daaf44a56c152ecf35a6cde3ec3659d288350000a913e6b9e34cf"
+file = "mods/world_of_color-1.4.1.pw.toml"
+hash = "9d94f1951e39f1eeef37bad15fca9f5256793539c3b45fe081f74adf8cbcd602"
 metafile = true
 
 [[files]]
@@ -659,12 +654,12 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c5697e828e63639d75da60663cbee910db25bc549ccd360804d72cc745c9ef5d"
+hash = "1639bfadd3846a17270233caa53b8a595ba043e3ee512b7f03742e396d9c2c3c"
 preserve = true
 
 [[files]]
-file = "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).pw.toml"
-hash = "a486c6aad6b8957aeb4f6ed3f0d81c61bf83b879d61eac392208886dbe968f5c"
+file = "resourcepacks/-1.21.2 Fresh Moves v3.1 (No Animated Eyes).pw.toml"
+hash = "62ed578bc0b93202ba7ff64f22203054e61d495a8cc484336802077d0c4f5f51"
 metafile = true
 
 [[files]]

@@ -1,12 +1,12 @@
 name = "Cobble Skies"
 author = "Markiian"
-version = "1.7.5-test"
+version = "1.7.6-test"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e2b75cb3d6392b17b971392ee4deb4f758cd0772fbce23035d480577b59d2941"
+hash = "f1d7dc560d3e0fe25d6d226c472a0f619875ae6d74c62db9cad4aee21ea9acc0"
 
 [versions]
 minecraft = "1.21.1"

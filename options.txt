@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","mod_resources","file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip","file/RCT Trainer Animation_0.2.1beta.zip"]
+resourcePacks:["vanilla","mod_resources","file/-1.21.2 Fresh Moves v3.1 (No Animated Eyes).zip","file/RCT Trainer Animation_0.2.1beta.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:ru_ru
