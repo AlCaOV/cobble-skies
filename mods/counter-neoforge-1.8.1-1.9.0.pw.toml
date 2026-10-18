@@ -1,0 +1,13 @@
+name = "counter-neoforge-1.8.1-1.9.0"
+filename = "counter-neoforge-1.8.1-1.9.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rj8uLYP4/versions/Oju2EgjX/counter-neoforge-1.8.1-1.9.0.jar"
+hash-format = "sha512"
+hash = "6f9872a96c23e528aa3f321e925bd48e75bfe68ebff6dc3d20e116d43d3bfddd4f11d4478a5b7dad98254500b2dd9ae87763dbb4f561fd8746549b2902c5382d"
+
+[update]
+[update.modrinth]
+mod-id = "rj8uLYP4"
+version = "Oju2EgjX"

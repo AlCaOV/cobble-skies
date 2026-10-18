@@ -5,6 +5,11 @@ file = "config/iris.properties"
 hash = "efe0c30620affee4a63c94309643da1b5a10d9b411d292f1394bd233489a7334"
 
 [[files]]
+file = "config/openloader/packs/ATM x MSD [v4.0].pw.toml"
+hash = "bde254f9ca536de5d9e3679501525975de5b725ed370f600d211d5821d5daa7b"
+metafile = true
+
+[[files]]
 file = "config/openloader/packs/E19 Cobblemon Minimap Icons.pw.toml"
 hash = "19e4d860beb36acabea16aa7968844317d6947f6ee19a97b24c4ffcb480f0388"
 metafile = true
@@ -29,6 +34,10 @@ hash = "38bc63366a854eb4100e3a31757cbae48f8541d1a26ae3948fde4aedc86d21a5"
 metafile = true
 
 [[files]]
+file = "mods/CRE-v0.0.3-NeoForge.jar"
+hash = "80c79235dca37cb3267b4dac3a609ed38d3a2a5b8e46eb31b0cad99ecf63689f"
+
+[[files]]
 file = "mods/Chunky-NeoForge-1.4.23.pw.toml"
 hash = "320107f5134d7fe1ba6099034f6a5f5f3145493cfa4cac350e90f8bf38962e42"
 metafile = true
@@ -39,13 +48,13 @@ hash = "6fe987aedbf54d3d41f653ff62502ab75b93f81634f59d2026157aaaa7d13eea"
 metafile = true
 
 [[files]]
-file = "mods/Cobblemon-neoforge-1.8.2+1.21.1.pw.toml"
-hash = "31478a9323972880522fa3e41cfbb00e06e39ea88f8bb2830f947e5206e638a0"
+file = "mods/Cobblemon-neoforge-1.8.1+1.21.1.pw.toml"
+hash = "52759a87494825ed38aeacf9c1fa027f17114611f85f2c0b3b090566b4713946"
 metafile = true
 
 [[files]]
-file = "mods/Cobbreeding-neoforge-2.4.1.pw.toml"
-hash = "70115fa48b70d24081956206e054ced6667aaa48366d851e12d2d95f5c674db6"
+file = "mods/Cobbreeding-neoforge-2.3.0.pw.toml"
+hash = "2f14889286b923d70ec261782f50d08a445344d7fcd00af63936a9fd1df1478d"
 metafile = true
 
 [[files]]
@@ -209,6 +218,11 @@ hash = "201637bed3d4c63640cab631cf081f660de49b7c20bf031e32902b473350a0be"
 metafile = true
 
 [[files]]
+file = "mods/capturexp-neoforge-1.8.1-1.3.0.pw.toml"
+hash = "d68aa6ac4d8fbcc2e9d68bd6ff07f4bfd14b18e77c8c1ff6b939e304710e203d"
+metafile = true
+
+[[files]]
 file = "mods/carryon-neoforge-1.21.1-2.2.6.13.pw.toml"
 hash = "b002e49c690e9107c6ea56ad7ff1320400200b7bff371800c9d9c237abd8d7f5"
 metafile = true
@@ -259,13 +273,23 @@ hash = "81f232f70da1b59acbdff63f975641139f4bfab51e84d719c76de43b743e1932"
 metafile = true
 
 [[files]]
+file = "mods/cobblemonraiddens-neoforge-0.12.1+1.21.1.pw.toml"
+hash = "9132877110770a0a61f117c082d4967ad3a9f264e590596d9e3ee5d704f7a9b6"
+metafile = true
+
+[[files]]
 file = "mods/cobblemore_lib-neoforge-1.2.10.pw.toml"
 hash = "2570aaecea67b5a270cdae414d0c33508e809537be8f2121ebdb9aea541ca68d"
 metafile = true
 
 [[files]]
-file = "mods/cobbleworkers-neoforge-2.0.6+1.8.2.pw.toml"
-hash = "ab4918e5c2babe3cd35f444d9921f009a598a6a647c8e6d64e0b354e6bb0f1f3"
+file = "mods/cobblenav-neoforge-2.4.1.pw.toml"
+hash = "ffde21e82c5a278645e6f893537dd5ca3d4b997b4fd42c0c99a7f2473dce5455"
+metafile = true
+
+[[files]]
+file = "mods/cobbleworkers-neoforge-2.0.5+1.8.0.pw.toml"
+hash = "04a0f9e83f79ff87b63966863a957c74a1dad6b407d61b3df4a75d81c10e4ade"
 metafile = true
 
 [[files]]
@@ -279,8 +303,8 @@ hash = "e215ef494c0e94a65caffc64fe5985fec78b803cb66226b20ac63a5f40767915"
 metafile = true
 
 [[files]]
-file = "mods/counter-neoforge-1.8.2-1.9.2.pw.toml"
-hash = "78fb12f317627563c6d48b824c443af0b40642de0d273369ae9031d56c33e6e0"
+file = "mods/counter-neoforge-1.8.1-1.9.0.pw.toml"
+hash = "4fd80d6d8345535f948ce6834f661199b02f9b9e141f198406c3b185921c060c"
 metafile = true
 
 [[files]]
@@ -324,8 +348,8 @@ hash = "52f8416eabc78105918a9a672db00ecc42b8925eeec2cdb6e925fa64d656252e"
 metafile = true
 
 [[files]]
-file = "mods/create_encapsulated-1.1.3+1.21.1.pw.toml"
-hash = "288159746394dc069ebcb2e697a1092cc50f47395a13326cd708574190b452ba"
+file = "mods/create_encapsulated-1.1.2+1.21.1.pw.toml"
+hash = "b56b619ac5371afc5c1a0d4db1adfc54e6bdf84e2b2800de2421a762ae8f9899"
 metafile = true
 
 [[files]]
@@ -404,6 +428,11 @@ hash = "7d92efa1c6cc55bab650bc48af7fc2af75fa7f0b1f329ec8ba01bff22dc3d5b4"
 metafile = true
 
 [[files]]
+file = "mods/fightorflight-neoforge-0.11.0.pw.toml"
+hash = "fbfb8f326314b2742e3e7ccd7b76205d842b5f63d0d340c66db59517b7a321b5"
+metafile = true
+
+[[files]]
 file = "mods/fzzy_config-0.7.7+1.21+neoforge.pw.toml"
 hash = "a0545868a72e4957df75b6a45a8c6f33a34819e98ff1673ca50e898d3478b971"
 metafile = true
@@ -444,6 +473,11 @@ hash = "af6cb3cccfe7b8b1054bdd0f9d3e4f75b63ef96bb7eaff83e6eaca8f22f6470a"
 metafile = true
 
 [[files]]
+file = "mods/lighty-neoforge-3.0.0-beta.8+1.21.1.pw.toml"
+hash = "629152f6f22fc7a11582b5d21bac97c01d5343681ae680b72dcc1b06fc02844e"
+metafile = true
+
+[[files]]
 file = "mods/lithium-neoforge-0.15.4+mc1.21.1.pw.toml"
 hash = "a3b0e50d5aa77951a1249e68ebfa370ee8aa97b6785f77461eeea7bdcb287e5e"
 metafile = true
@@ -456,6 +490,11 @@ metafile = true
 [[files]]
 file = "mods/lootr-neoforge-1.21.1-1.11.38.127.pw.toml"
 hash = "578056a74461e5775499149d9d410679e722a70fa67df1eff5c5b43132eb18c8"
+metafile = true
+
+[[files]]
+file = "mods/mega_showdown-neoforge-1.2.0+1.8.1+1.21.1-release.pw.toml"
+hash = "f190b1f98a1159b6e0e047b27a0f11daf5bf6ba3155efea1141926a18e2aee13"
 metafile = true
 
 [[files]]
@@ -519,8 +558,8 @@ hash = "9bb8ca761a7f7ed1e0c52c7c08a8d1e615818f5cdcfec0e05cec4404d21653b4"
 metafile = true
 
 [[files]]
-file = "mods/rctapi-neoforge-1.21.1-0.16.2-beta.pw.toml"
-hash = "c34cbcea3a8d40c9c70e3bdea8ee20ccfa3e503d91102ca46045260751b8a545"
+file = "mods/rctapi-neoforge-1.21.1-0.16.1-beta.pw.toml"
+hash = "48b5c13b389b02a538f098a967e6d375f84410fd22e66d4ff3d191407bb8cab9"
 metafile = true
 
 [[files]]
@@ -534,8 +573,8 @@ hash = "f22a4c7c18d04d84e5bd708b653aa6c686ec13b83eb4207f69a19e9288fcb318"
 metafile = true
 
 [[files]]
-file = "mods/releaserewards-neoforge-3.0.4.pw.toml"
-hash = "1a95314dfbd4836a9493985d80fe55d1e407cc38ec6fedfd50192f19000412cb"
+file = "mods/releaserewards-neoforge-3.0.3.pw.toml"
+hash = "0fdd1e24df77ae54aec606e86df788da8ec02c58b26475d1d3fbf5889892bd05"
 metafile = true
 
 [[files]]
@@ -544,8 +583,8 @@ hash = "b2da2487f360fb87adf6ca4615057b02dc0e3df41b816264f0f2486700a1cc35"
 metafile = true
 
 [[files]]
-file = "mods/sable-neoforge-1.21.1-2.0.6.pw.toml"
-hash = "91ec0a96a1f1e914a170bf51d03926c8bad455c784999a52aa5f3161ceef5588"
+file = "mods/sable-neoforge-1.21.1-2.0.5.pw.toml"
+hash = "da75fd92f978d3cf3b79a944f22f5ae8805fba69739bc03f69e89bb50b63ba44"
 metafile = true
 
 [[files]]
@@ -594,18 +633,18 @@ hash = "1c1670300d416d58797ee0ddb11d6057052bd360cba68b73cb7a9376963d0304"
 metafile = true
 
 [[files]]
-file = "mods/timcore-neoforge-1.8.2-1.34.0.pw.toml"
-hash = "038ef1d04bc4c6bee2f1af371e5c42c949462884ce33707387d9f47b417abc3d"
+file = "mods/timcore-neoforge-1.8.1-1.32.1.pw.toml"
+hash = "665c658e938ff90b2678630f69ccc769dd72e2d24ba6bde8eec8eb24ba782d19"
 metafile = true
 
 [[files]]
-file = "mods/unchained-neoforge-1.8.2-1.7.2.pw.toml"
-hash = "f584de2460fb618c4cd6912a243ac5326389b46dccd594e25e93283053ba86e4"
+file = "mods/unchained-neoforge-1.8.1-1.7.1.pw.toml"
+hash = "f3312c16b416e967448ff57fdbc7bf138670e69ed34cf779b09fc99f81926c19"
 metafile = true
 
 [[files]]
-file = "mods/world_of_color-1.4.1.pw.toml"
-hash = "9d94f1951e39f1eeef37bad15fca9f5256793539c3b45fe081f74adf8cbcd602"
+file = "mods/world_of_color-1.3.pw.toml"
+hash = "cf39cfc62f9daaf44a56c152ecf35a6cde3ec3659d288350000a913e6b9e34cf"
 metafile = true
 
 [[files]]
@@ -620,12 +659,12 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "1639bfadd3846a17270233caa53b8a595ba043e3ee512b7f03742e396d9c2c3c"
+hash = "c5697e828e63639d75da60663cbee910db25bc549ccd360804d72cc745c9ef5d"
 preserve = true
 
 [[files]]
-file = "resourcepacks/-1.21.2 Fresh Moves v3.1 (No Animated Eyes).pw.toml"
-hash = "62ed578bc0b93202ba7ff64f22203054e61d495a8cc484336802077d0c4f5f51"
+file = "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).pw.toml"
+hash = "a486c6aad6b8957aeb4f6ed3f0d81c61bf83b879d61eac392208886dbe968f5c"
 metafile = true
 
 [[files]]
