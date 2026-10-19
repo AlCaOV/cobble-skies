@@ -5,4 +5,5 @@ Cobble Skies — автооновлення для ВЖЕ встановлено
 3. Двічі клацни migrate.bat і дочекайся напису Done
    (старі моди переїдуть у mods_old, нові скачаються з GitHub, ~600 МБ).
 4. У профілі: Options -> Hooks -> Pre-launch -> встав:   cmd /c update.bat
-5. Грай. Далі оновлення приходять самі при кожному запуску.
+5. Options -> Installation -> Unlink modpack, потім NeoForge version -> 21.1.264.
+6. Грай. Далі оновлення приходять самі при кожному запуску.
