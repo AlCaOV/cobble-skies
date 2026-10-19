@@ -178,6 +178,11 @@ hash = "60bed8f5065eaef7605a8649b9e919ce50cf47601184470e365323a388d2d849"
 metafile = true
 
 [[files]]
+file = "mods/accessories_compat_layer-neoforge-0.1.13+1.21.1.pw.toml"
+hash = "60083ecd5d7d1224d56d8af0be4a16c19142ef15c90406dee9aa6857e554a46d"
+metafile = true
+
+[[files]]
 file = "mods/aerocopycats-1.1.1.pw.toml"
 hash = "d0f38746e362941ae008d3d2cbdf3f894f35ef62aeef0903d535d55888edfc85"
 metafile = true
@@ -348,6 +353,10 @@ hash = "288159746394dc069ebcb2e697a1092cc50f47395a13326cd708574190b452ba"
 metafile = true
 
 [[files]]
+file = "mods/create_thaumaturgy-1.21.1-0.1.0.jar"
+hash = "0c0afdb9ed1f45358d8e103a9250b91f4d48f125d71aed27cff980dda103cef1"
+
+[[files]]
 file = "mods/createaddition-1.6.0.pw.toml"
 hash = "102562cace63e5589832214505b71950430a2478301235ae02ae1da9fe22b95e"
 metafile = true
@@ -360,6 +369,11 @@ metafile = true
 [[files]]
 file = "mods/createpropulsion-1.1.5.pw.toml"
 hash = "562e6157d280136070a6dd3475a8bd34261088538ff9e2b9eadf7e601c1f2b9c"
+metafile = true
+
+[[files]]
+file = "mods/curios-neoforge-9.5.1+1.21.1.pw.toml"
+hash = "9f843a599ee872334214cb385f0438091e2bdd767647abb476b00c22feacdd5c"
 metafile = true
 
 [[files]]
@@ -626,6 +640,10 @@ metafile = true
 file = "mods/tectonic-3.0.28-neoforge-21.1.pw.toml"
 hash = "1c1670300d416d58797ee0ddb11d6057052bd360cba68b73cb7a9376963d0304"
 metafile = true
+
+[[files]]
+file = "mods/thaumaturge-1.21.1-NeoForge-1.0.4.jar"
+hash = "741cb5b7e5b012c3a429a19eaedf6885287eb86ec46f293f426d0954dff7c90c"
 
 [[files]]
 file = "mods/timcore-neoforge-1.8.2-1.34.0.pw.toml"
