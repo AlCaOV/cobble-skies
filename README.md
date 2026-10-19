@@ -6,7 +6,7 @@ Cobblemon × Create: Aeronautics, NeoForge 1.21.1. Звідси Modrinth App а�
 
 ## Як приєднатися (для друзів)
 
-1. Встанови **Modrinth App** і імпортуй файл `Cobble-Skies-1.7.0.mrpack` (Create profile → From file). Виділи грі 8 ГБ пам'яті.
+1. Встанови **Modrinth App** і імпортуй файл `Cobble-Skies-1.8.0.mrpack` (Create profile → From file). Виділи грі 8 ГБ пам'яті.
 2. Відкрий профіль → **Options → Hooks** → у поле **Pre-launch** встав:
    ```
    cmd /c update.bat
