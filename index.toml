@@ -532,8 +532,8 @@ hash = "f18f7bf6f1e3aa10c46365a866b496a410523b7a8198b8453d16d4a46710605b"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.pw.toml"
-hash = "37f531c3312fbd8e395b1b1c000a9fba08fc98fa8b8969d512ce4af3f205a418"
+file = "mods/owo-lib-neoforge-0.12.15.6-beta.1+1.21.pw.toml"
+hash = "6b5e363d5830e9de0664645e375e6b228f8848a5374ef0e8c6da14b423cd3191"
 metafile = true
 
 [[files]]
