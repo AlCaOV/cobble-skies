@@ -382,6 +382,11 @@ hash = "9f843a599ee872334214cb385f0438091e2bdd767647abb476b00c22feacdd5c"
 metafile = true
 
 [[files]]
+file = "mods/cwb-neoforge-3.0.0+mc1.21.pw.toml"
+hash = "7cf00d0792f5c27f25a9766e0f06330fabb7260c199ebeb7def2ec67c8f862d5"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.pw.toml"
 hash = "3f5c1df63ab004da870beba04c45b82611c018deedea40292698276fcbdb9a7c"
 metafile = true
