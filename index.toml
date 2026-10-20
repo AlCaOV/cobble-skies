@@ -83,6 +83,11 @@ hash = "12efd6d054235cfd5a994ca6e459098a2fbdcfd0ebaf582485d826357c9b43e0"
 metafile = true
 
 [[files]]
+file = "mods/ExplorersCompass-1.21.1-3.4.0-neoforge.pw.toml"
+hash = "d752ed7073c845a0ec1c24750339f7e87ff60c668d25d0afddad941af916c14f"
+metafile = true
+
+[[files]]
 file = "mods/FarmersDelight-1.21.1-1.3.4.pw.toml"
 hash = "f22212b468ef559e81c5b03dffc1cc06b840317f746d5e21ac48da7c593690b1"
 metafile = true
